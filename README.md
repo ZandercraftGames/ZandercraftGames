@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   - Express  
   - Mongoose  
   - Handlebars/HBS  
+  - Socket.io  
+  - User Sessions
 - MongoDB  
 - Postgres  
 - MySQL/MariaDB  
