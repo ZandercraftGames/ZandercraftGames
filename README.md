@@ -11,6 +11,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🤔 My Interests:  
+- 🔨 Programming (of course!)  
+- 🎮 Video Games  
+  - 🌳 Minecraft  
+  - ⚔️ Valheim  
+  - ⛵ Sea of Thieves  
+  - 👨‍🌾 Stardew Valley
+- 💬 Discord  
+- 🎬 Video Production and Live Streaming  
+- 💍 Lord of the Rings + The Hobbit + The Silmarillion  
+- 🪄 Harry Potter  
+
 ### 🔭 Here's some things I'm currently working on:  
 - [Cleanup and Improvement of TGS's TechnicSolder (PHP)](https://github.com/ZandercraftGames/TechnicSolder)  
 - [The Zandercraft Bot (Python)](https://zandercraft.ca/en/docs/zandercraft-bot/)
