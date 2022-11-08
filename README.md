@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 - Python  
 
 ### 📨 Contact Me  
-Want to chill, play games and have fun? Join [my community Discord server](https://zandercraft.ca/discord)  
-Looking for support or have questions about the Zandercraft Bot? Join it's [official Discord support server](https://zandercraft.ca/bot)  
-Looking for formal support with any of the services I provide? Send an email to [support@zandercraft.ca](mailto:support@zandercraft.ca)  
+Want to chill, play games and have fun? Join [my community Discord server](https://zandercraft.ca/discord).  
+Looking for support with the Zandercraft Bot? Join it's [official Discord support server](https://zandercraft.ca/bot).  
+Looking for support with any of the services I provide? Send an email to [support@zandercraft.ca](mailto:support@zandercraft.ca).  
