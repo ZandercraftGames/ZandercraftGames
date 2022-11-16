@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - 🐘 PHP  
 - 🐍 Python  
 - 💡 LAMP Stack  
+- 🧩 LEMP Stack
 
 ### 📨 Contact Me  
 Want to chill, play games and have fun? Join [my community Discord server](https://zandercraft.ca/discord).  
