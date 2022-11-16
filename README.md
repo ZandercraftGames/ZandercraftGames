@@ -29,21 +29,22 @@ Here are some ideas to get you started:
 - A code-collaboration platform (Node.JS + Express - Coming Soon)
 
 ### 🎓 I’m currently learning in college:  
-- C & C++  
-- HTML, CSS, JS  
-- Node.JS  
+- 👨‍💻 C & C++  
+- 🌐 HTML, CSS, JS  
+- ⚙️ Node.JS  
   - Express  
   - Mongoose  
   - Handlebars/HBS  
   - Socket.io  
   - User Sessions
-- MongoDB  
-- Postgres  
-- MySQL/MariaDB  
+- 📃 MongoDB  
+- 💽 Postgres  
+- 💿 MySQL/MariaDB  
 
 ### 🌱 Currently learning on my own:  
-- PHP  
-- Python  
+- 🐘 PHP  
+- 🐍 Python  
+- 💡 LAMP Stack  
 
 ### 📨 Contact Me  
 Want to chill, play games and have fun? Join [my community Discord server](https://zandercraft.ca/discord).  
