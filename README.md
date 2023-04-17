@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 ### 🌱 Currently learning on my own:  
 - 🐘 PHP  
 - 🐍 Python (Self taught, Currently using in a course)  
+  - 🌐 Django  
 - 💡 LAMP Stack  
 - 🧩 LEMP Stack
 
