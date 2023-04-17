@@ -37,15 +37,17 @@ Here are some ideas to get you started:
   - 🚲 Handlebars/HBS  
   - 🔌 Socket.io  
   - 📛 User Sessions  
-  - ⚛️ React
-  - 🔼 NextJS
-  - 🌲 Cypress
+  - ⚛️ React  
+  - 🔼 NextJS  
+  - 🌲 Cypress  
   - 🃏 Jest
-- 🔐 JWT
+- 🔐 JWT  
 - 📃 MongoDB  
 - 💽 Postgres  
 - 💿 MySQL/MariaDB  
-- 📊 UML
+- 📊 UML  
+- 📃 JIRA
+- 💼 Scrum/Agile
 
 ### 🌱 Currently learning on my own:  
 - 🐘 PHP  
