@@ -32,18 +32,21 @@ Here are some ideas to get you started:
 - 👨‍💻 C & C++  
 - 🌐 HTML, CSS, JS  
 - ⚙️ Node.JS  
-  - Express  
-  - Mongoose  
-  - Handlebars/HBS  
-  - Socket.io  
-  - User Sessions
+  - 🌐 Express  
+  - 📃 Mongoose  
+  - 🚲 Handlebars/HBS  
+  - 🔌 Socket.io  
+  - 📛 User Sessions
+  - ⚛️ React
+  - 🔼 NextJS
 - 📃 MongoDB  
 - 💽 Postgres  
 - 💿 MySQL/MariaDB  
+- 📊 UML
 
 ### 🌱 Currently learning on my own:  
 - 🐘 PHP  
-- 🐍 Python  
+- 🐍 Python (Self taught, Currently using in a course)  
 - 💡 LAMP Stack  
 - 🧩 LEMP Stack
 
