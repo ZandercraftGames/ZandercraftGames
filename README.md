@@ -36,9 +36,12 @@ Here are some ideas to get you started:
   - 📃 Mongoose  
   - 🚲 Handlebars/HBS  
   - 🔌 Socket.io  
-  - 📛 User Sessions
+  - 📛 User Sessions  
   - ⚛️ React
   - 🔼 NextJS
+  - 🌲 Cypress
+  - 🃏 Jest
+- 🔐 JWT
 - 📃 MongoDB  
 - 💽 Postgres  
 - 💿 MySQL/MariaDB  
