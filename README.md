@@ -3,15 +3,15 @@
 | ### 🤔 My Interests:                                    | ### ⛏️ Top Languages |
 | ------------------------------------------------------- | - |
 | - 🔨 Programming (of course!)                           | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZandercraftGanes&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
-| - 🎮 Video Games                                        |  |
-|   - 🌳 Minecraft                                        |  |
-|   - ⚔️ Valheim                                          |  |
-|   - ⛵ Sea of Thieves                                   |  |
-|   - 👨‍🌾 Stardew Valley                                   |  |
-| - 💬 Discord                                            |  |
-| - 🎬 Video Production and Live Streaming                |  |
-| - 💍 Lord of the Rings + The Hobbit + The Silmarillion  |  |
-| - 🪄 Harry Potter                                       |  |
+| - 🎮 Video Games  
+|   - 🌳 Minecraft  
+|   - ⚔️ Valheim  
+|   - ⛵ Sea of Thieves  
+|   - 👨‍🌾 Stardew Valley  
+| - 💬 Discord  
+| - 🎬 Video Production and Live Streaming  
+| - 💍 Lord of the Rings + The Hobbit + The Silmarillion  
+| - 🪄 Harry Potter  ||
 | ------------------------------------------------------- | - |
 
 
