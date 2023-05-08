@@ -1,17 +1,17 @@
 ### Hi there! 👋
 
 | 🤔 My Interests:                                    | ⛏️ Top Languages |
-| ------------------------------------------------------- | - |
-| - 🔨 Programming (of course!)  
-  - 🎮 Video Games  
-    - 🌳 Minecraft  
-    - ⚔️ Valheim  
-    - ⛵ Sea of Thieves  
-    - 👨‍🌾 Stardew Valley  
-  - 💬 Discord  
-  - 🎬 Video Production and Live Streaming  
-  - 💍 Lord of the Rings + The Hobbit + The Silmarillion  
-  - 🪄 Harry Potter  | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZandercraftGames&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+| ---------------------------------------------------- | ---------------- |
+| - 🔨 Programming (of course!)
+  - 🎮 Video Games
+    - 🌳 Minecraft
+    - ⚔️ Valheim
+    - ⛵ Sea of Thieves
+    - 👨‍🌾 Stardew Valley
+  - 💬 Discord
+  - 🎬 Video Production and Live Streaming
+  - 💍 Lord of the Rings + The Hobbit + The Silmarillion
+  - 🪄 Harry Potter | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZandercraftGames&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------------------------------------------------- | - |
 
 
