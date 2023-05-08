@@ -2,7 +2,7 @@
 
 | ### 🤔 My Interests:                                    | ### ⛏️ Top Languages |
 | ------------------------------------------------------- | - |
-| - 🔨 Programming (of course!)                           | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZandercraftGanes&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+| - 🔨 Programming (of course!)  
 | - 🎮 Video Games  
 |   - 🌳 Minecraft  
 |   - ⚔️ Valheim  
@@ -11,8 +11,7 @@
 | - 💬 Discord  
 | - 🎬 Video Production and Live Streaming  
 | - 💍 Lord of the Rings + The Hobbit + The Silmarillion  
-| - 🪄 Harry Potter  ||
-| ------------------------------------------------------- | - |
+| - 🪄 Harry Potter  | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZandercraftGanes&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 
 
 ### 🔭 Here's some things I'm currently working on:  
