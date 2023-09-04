@@ -34,6 +34,7 @@
 - 💼 Scrum/Agile
 
 ### 🌱 Currently learning on my own:  
+- ☕ Java
 - 🐘 PHP  
 - 🐍 Python (Self taught, Currently using in a course)  
   - 🌐 Django  
