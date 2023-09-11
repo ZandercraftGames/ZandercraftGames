@@ -32,6 +32,8 @@
 - 📊 UML  
 - 📃 JIRA
 - 💼 Scrum/Agile
+- 🎮 Unreal Engine 5
+- 🪟 Qt
 
 ### 🌱 Currently learning on my own:  
 - ☕ Java
@@ -40,6 +42,7 @@
   - 🌐 Django  
 - 💡 LAMP Stack  
 - 🧩 LEMP Stack
+- 🪟 Qt for Python
 
 ### 📨 Contact Me  
 Want to chill, play games and have fun? Join [my community Discord server](https://zandercraft.ca/discord).  
