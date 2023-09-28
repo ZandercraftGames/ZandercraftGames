@@ -8,7 +8,7 @@
 
 
 ### 🔭 Here's some things I'm currently working on:  
-- [TechnicFlux- A brand new TechnicSolder API and dashboard implementation](https://github.com/ZandercraftGames/TechnicFlux)
+- [TechnicFlux- A brand new TechnicSolder API and dashboard implementation](https://github.com/Zandercraft/TechnicFlux)
 - [Cleanup and Improvement of TGS's TechnicSolder (PHP)](https://github.com/ZandercraftGames/TechnicSolder)  
 - [The Zandercraft Bot (Python)](https://zandercraft.ca/en/docs/zandercraft-bot/)
 - A code-collaboration platform (Node.JS + Express - Coming Soon)
