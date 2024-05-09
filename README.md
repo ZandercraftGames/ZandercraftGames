@@ -38,7 +38,9 @@
 
 ### 🌱 Currently learning on my own:  
 - ☕ Java
-- 🐘 PHP  
+- 🐘 PHP
+- 💎 Ruby
+  - 🛤️ Rails (Ruby on Rails)
 - 🐍 Python (Self taught, Currently using in a course)  
   - 🌐 Django  
 - 💡 LAMP Stack  
