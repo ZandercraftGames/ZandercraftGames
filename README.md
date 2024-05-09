@@ -49,5 +49,5 @@
 
 ### 📨 Contact Me  
 Want to chill, play games and have fun? Join [my community Discord server](https://zandercraft.ca/discord).  
-Looking for support with the Zandercraft Bot? Join it's [official Discord support server](https://zandercraft.ca/bot).  
+Looking for support with the Zandercraft Bot? Join it's [official Discord support server](https://zandercraft.ca/bot-support).  
 Looking for support with any of the services I provide? Send an email to [support@zandercraft.ca](mailto:support@zandercraft.ca).
