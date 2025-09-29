@@ -13,7 +13,7 @@
 - [The Zandercraft Bot (Python)](https://zandercraft.ca/en/docs/zandercraft-bot/)
 - A code-collaboration platform (Node.JS + Express - Coming Soon)
 
-### 🎓 I’m currently learning in college:  
+### 🎓 Learned in college:  
 - 👨‍💻 C & C++  
 - 🌐 HTML, CSS, JavaScript  
   - 🖼️ Bootstrap  
@@ -37,7 +37,8 @@
 - 💼 Scrum/Agile  
 - 🎮 Unreal Engine 5  
 - 🪟 Qt  
-- 📱 React Native  
+- 📱 React Native
+- And much, much more!
 
 ### 🌱 Currently learning on my own:  
 - 🔥 Cloudflare  
