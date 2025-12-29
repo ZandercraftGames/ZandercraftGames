@@ -2,7 +2,7 @@
 
 | 🤔 My Interests:                                    | ⛏️ Top-Used Languages |
 | ---------------------------------------------------- | --------------------- |
-| <ul><li>🔨 Programming (of course!)</li><li>🎮 Video Games<ul><li>🌳 Minecraft</li><li>⚔️ Valheim</li><li>⛵ Sea of Thieves</li><li>👨‍🌾 Stardew Valley</li></ul></li><li>💬 Discord</li><li>🎬 Video Production and Live Streaming</li><li>💍 Lord of the Rings + The Hobbit + The Silmarillion</li><li>🪄 Harry Potter</li></ul> | [![Top Used Languages]([https://githubcard.com/ZandercraftGames.svg?d=3pdTcITZ)]() |
+| <ul><li>🔨 Programming (of course!)</li><li>🎮 Video Games<ul><li>🌳 Minecraft</li><li>⚔️ Valheim</li><li>⛵ Sea of Thieves</li><li>👨‍🌾 Stardew Valley</li></ul></li><li>💬 Discord</li><li>🎬 Video Production and Live Streaming</li><li>💍 Lord of the Rings + The Hobbit + The Silmarillion</li><li>🪄 Harry Potter</li></ul> | [![Top Used Languages](https://githubcard.com/ZandercraftGames.svg?d=3pdTcITZ)]() |
 
 *Note: The above stats only include public repositories that I own. See [@Zandercraft](https://github.com/Zandercraft) for more of my work.*
 
